@@ -1,0 +1,42 @@
+{
+  "logs": [
+    {
+      "message": "Change network card in station 002",
+      "tech": "John Doe",
+      "attention": true,
+      "date": "2021-02-10T18:57:39.694Z",
+      "id": 1
+    },
+    {
+      "message": "Hard drive failed in work station 002",
+      "tech": "John Doe",
+      "attention": false,
+      "date": "2021-02-24T14:52:57.643Z",
+      "id": 2
+    },
+    {
+      "message": "sdfkkk",
+      "tech": "Sam Smith",
+      "attention": false,
+      "date": "2021-02-24T14:53:01.287Z",
+      "id": 5
+    }
+  ],
+  "techs": [
+    {
+      "id": 2,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "id": 3,
+      "firstName": "Sara",
+      "lastName": "Wilson"
+    },
+    {
+      "firstName": "Jon",
+      "lastName": "Doe",
+      "id": 4
+    }
+  ]
+}
